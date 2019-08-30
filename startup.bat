@@ -1,0 +1,1 @@
+START /B mvn spring-boot:run > ctakesLog.txt
